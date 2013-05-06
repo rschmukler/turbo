@@ -1,8 +1,8 @@
 {
   "name": "turbo",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "description": "A router that works client and server side",
-  "main": "index.js",
+  "main": "lib/server.js",
   "scripts": {
     "test": "mocha"
   },

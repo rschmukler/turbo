@@ -4,10 +4,13 @@
   "description": "A router that works client and server side",
   "version": "0.0.1",
   "keywords": [],
-  "dependencies": {},
+  "main": "lib/client.js",
+  "dependencies": {
+    "visionmedia/page.js": "*"
+  },
   "development": {},
   "license": "MIT",
   "scripts": [
-    "index.js"
+    "lib/client.js"
   ]
 }
