@@ -1,0 +1,21 @@
+{
+  "name": "turbo",
+  "version": "0.1.0",
+  "description": "A router that works client and server side",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rschmukler/turbo"
+  },
+  "keywords": [
+    "turbo",
+    "express",
+    "page.js"
+  ],
+  "author": "Ryan Schmukler <ryan@slingingcode.com>",
+  "license": "MIT",
+  "readmeFilename": "Readme.md"
+}
